@@ -1,0 +1,41 @@
+ 
+ https://rutube.ru/video/8bf81b64777bc235a5623b1390c01661/
+norm video
+
+git reset --hard 374d0d4fc6496
+vozvrat k kommitu по id
+
+cat gitailtext.txt
+как я думаю
+показывает сохраненные и не сохраненные данные в файле
+
+git diff gitailtext.txt
+показывает разницу с прошлым коммитом
+
+git show 374d0d4fc649649a8978
+показ что  в том коммите
+
+git status
+
+git log
+
+git commit -m"885"
+
+git add .
+git add -A
+
+git restore gitailtext.txt
+уточнить нужно
+
+git checkout
+pereclu4eniya gj dtnrfv
+
+git branch
+
+sudo apt remove git
+git --version
+sudo apt install git
+
+git remote add origin https://github.com/Rodixon/gitapok.git
+git branch -M main
+git push -u origin main
