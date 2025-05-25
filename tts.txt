@@ -1,5 +1,6 @@
- 
- https://rutube.ru/video/8bf81b64777bc235a5623b1390c01661/
+https://stepik.org/lesson/709270/step/1?unit=709834
+git sumina
+https://rutube.ru/video/8bf81b64777bc235a5623b1390c01661/
 norm video
 
 git reset --hard 374d0d4fc6496
